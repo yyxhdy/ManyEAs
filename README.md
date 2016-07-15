@@ -30,4 +30,4 @@ the two algorithms on a specific benchmark problem in the files ThetaDEA_main.ja
 Note that, this code can be used only for non-commercial purposes. 
 We'd appreciate your acknowledgement if you use the code. 
 
-For any problem concerning the code, please feel free to contact Dr.Yuan Yuan (yyxhdy@gmail.com).
+For any problem concerning the code, please feel free to contact Dr. Yuan Yuan (yyxhdy@gmail.com).
