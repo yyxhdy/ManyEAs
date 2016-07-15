@@ -2,8 +2,8 @@
 
 This program mainly implements the Theta-DEA algorithm which was described in our paper:
 
-Yuan, Yuan, Hua Xu, Bo Wang, and Xin Yao. A new dominance Relation-Based Evolutionary Algorithm 
-for Many-Objective Optimization. 
+Yuan, Yuan, Hua Xu, Bo Wang, and Xin Yao. A new dominance relation-based evolutionary algorithm 
+for many-objective Optimization. 
 IEEE Transactions on Evolutionary Computation, 20(1), 16-37.
 
 
