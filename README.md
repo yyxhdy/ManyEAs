@@ -4,14 +4,14 @@ This program mainly implements the Theta-DEA algorithm which was described in ou
 
 Yuan, Yuan, Hua Xu, Bo Wang, and Xin Yao. A new dominance relation-based evolutionary algorithm 
 for many-objective optimization. 
-IEEE Transactions on Evolutionary Computation, 20(1), 16-37.
+IEEE Transactions on Evolutionary Computation, 2016, 20(1): 16-37.
 
 
 It also includes an ''unofficial'' implementation of NSGA-III which was described in following paper:
 
 Deb Kalyanmoy and Himanshu Jain. An evolutionary many-objective optimization algorithm using reference-point-based 
 nondominated sorting approach, part I: Solving problems with box constraints. 
-IEEE Transactions on Evolutionary Computation, 18(4), 577-601.
+IEEE Transactions on Evolutionary Computation, 2014, 18(4): 577-601.
 
 
 **************************************************************************************************************************************
